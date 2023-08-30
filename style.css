@@ -27,15 +27,12 @@ body{
     opacity: 0.8;
 }
 
-a {
+.title {
     font-size: 2rem;
     margin-bottom: 1rem;
-    text-decoration: none;
 }
 
-a:hover{
-    color: #d65108;
-}
+
 
 /*  */
 .container{
