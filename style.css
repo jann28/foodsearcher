@@ -26,9 +26,15 @@ body{
 .text{
     opacity: 0.8;
 }
-.title{
+
+a {
     font-size: 2rem;
     margin-bottom: 1rem;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #d65108;
 }
 
 /*  */
